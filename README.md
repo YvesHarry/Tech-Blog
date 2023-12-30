@@ -88,7 +88,7 @@ The following animation demonstrates the application functionality:
 8. Account Log out: click on "logout" in the navigation menu.
 
 ## Deployed Application Link:
-[Deployed Application Link:](https://github.com/YvesHarry/Tech-Blog.herokuapp.com/)
+[Deployed Application Link:](https://git.heroku.com/yhd-tech-blog.git)
 
 ## GitHub Repository:
 [GitHub Repository:]((https://github.com/YvesHarry/Tech-Blog))
