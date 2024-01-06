@@ -22,7 +22,7 @@ const chessLoginFormHandler = async (event) => {
   }
 };
 
-// Event listener for the chess login form
+// Event listener for the login form
 const chessLoginForm = document.querySelector('.chess-login-form');
 if (chessLoginForm) {
   chessLoginForm.addEventListener('submit', chessLoginFormHandler);
